@@ -1,0 +1,80 @@
+1
+00:00:05,918 --> 00:00:07,874
+As you can see I have progressed to HR4.
+
+2
+00:00:07,874 --> 00:00:11,560
+But quests are not cleared and Urgent does not show up.
+
+3
+00:00:13,749 --> 00:00:15,749
+To fix it we will use FlagCalc tool. Link in description.
+
+4
+00:00:15,749 --> 00:00:17,749
+In HR1 there are 3 quests so I enter 3.
+
+5
+00:00:17,749 --> 00:00:19,749
+Check box if you have next HR unlocked.
+
+6
+00:00:22,548 --> 00:00:24,548
+In HR2 there are 4 quests.
+
+7
+00:00:24,549 --> 00:00:26,039
+So type in 4.
+
+8
+00:00:26,040 --> 00:00:28,040
+Check box.
+
+9
+00:00:30,176 --> 00:00:34,274
+I will repeat it for every HR tab untill i reach the end.
+
+10
+00:00:38,860 --> 00:00:41,867
+I don't check the box in HR4, because HR5 isn't unlocked
+
+11
+00:00:43,750 --> 00:00:45,750
+Press Calculate.
+
+12
+00:00:45,750 --> 00:00:48,000
+Use one of buttons under. I'll use second for Chakratos Manager.
+
+13
+00:00:53,663 --> 00:00:55,663
+Just in case I will quit the game.
+
+14
+00:00:59,499 --> 00:01:03,511
+Paste result here and click floppy icon (save).
+
+15
+00:01:15,717 --> 00:01:18,742
+Starting game again to see if it works.
+
+16
+00:02:29,771 --> 00:02:31,771
+Greeted by wall of text.
+
+17
+00:02:33,167 --> 00:02:35,167
+It's a good sign.
+
+18
+00:02:37,621 --> 00:02:39,621
+And here it is. My Urgent for HR5.
+
+19
+00:02:40,305 --> 00:02:45,172
+Quests are cleared to the point I have set in calc.
+
+20
+00:02:47,993 --> 00:02:49,993
+That's it. Hope it will help you.
+
